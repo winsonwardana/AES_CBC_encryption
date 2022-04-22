@@ -3,4 +3,5 @@ An encryption program that encrypt images using AES_CBC with a randomly generate
 
 
 to encrypt: python encrypt_allfile.py
+
 to decrypt: python decrypt_allfile.py
